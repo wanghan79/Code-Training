@@ -4,6 +4,12 @@ import time
 #m表示线程数，n表示每个线程工作的执行次数
 class mythread:
     def create(self, job, m, n):
+        """
+        :param job:
+        :param m:
+        :param n:
+        :return:
+        """
         self.job = job
         self.m = m
         self.n = n
