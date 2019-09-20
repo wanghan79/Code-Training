@@ -61,7 +61,7 @@ if __name__ == "__main__":
     w.openxml()
     if (getSize() == 0):
         w.writehead()
-    while (getSize() < 1):
+    while (getSize() < 10):
         w.writexml()
     w.writetail()
     w.closexml()
