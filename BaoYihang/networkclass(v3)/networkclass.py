@@ -7,7 +7,7 @@
         1. encoding was changed to utf-8 to deal with more situations
         2. change the tips from Chinese to English
         3. combine the http and ftp download class(and if we need ftp download
-        we must input the service port or errors will occured)
+        we must input the service port or errors will occur)
 '''
 from __future__ import with_statement
 import requests
