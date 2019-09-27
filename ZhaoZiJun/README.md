@@ -11,3 +11,6 @@
 > 测试程序调用解析类对FASTA文件处理后得到的指定信息
 > - [debugIO.png](https://github.com/wanghan79/Code-Training/blob/master/ZhaoZiJun/FASTA_file_parsing/debugIO.png)
 > 运行测试程序时控制台输出展示
+#
+> - topo.py
+> 对拓扑信息的提取
