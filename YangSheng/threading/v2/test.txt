@@ -1,0 +1,9 @@
+job1 begin   Fri Sep 27 16:00:40 2019
+job2 begin   Fri Sep 27 16:00:40 2019
+job3 begin   Fri Sep 27 16:00:40 2019
+job1 running  Fri Sep 27 16:00:40 2019
+job3 running  Fri Sep 27 16:00:40 2019
+job2 running  Fri Sep 27 16:00:40 2019
+job1 finish  Fri Sep 27 16:00:40 2019
+job2 finish  Fri Sep 27 16:00:40 2019
+job3 finish  Fri Sep 27 16:00:40 2019
