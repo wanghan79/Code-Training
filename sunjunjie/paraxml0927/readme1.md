@@ -1,0 +1,2 @@
+将main方法中fast_iter方法中的参数“gene”替换掉想要的标签就可以
+txt文件的路径在main中infile中也有体现 换个路径就可以
